@@ -11,7 +11,7 @@ public class ClassA {
 	private void method3() {
 		System.out.println("Method-3");
 	}
-	 
+
 	private void Group1() {
 		System.out.println("Group1 Class");
 	}
@@ -22,5 +22,17 @@ public class ClassA {
 	
 	private void Group4() {
 		System.out.println("Group4 Class");
+	}
+	
+	private void TamilNadu() {
+		System.out.println("Tamil");
+	}
+	
+	private void Kerala() {
+		System.out.println("Malayalam");
+	}
+	
+	private void Andra() {
+		System.out.println("Telugu");
 	}
 }
